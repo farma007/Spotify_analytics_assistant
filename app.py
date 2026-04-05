@@ -3,7 +3,7 @@
     # ============================================================
     # Alumno: Juan Becedas
     # URL Streamlit Cloud: https://...streamlit.app
-    # URL GitHub: https:/https:/github.com/jbecedasisdi/Spotify_analytics_assistant
+    # URL GitHub: https:/github.com/jbecedasisdi/Spotify_analytics_assistant
 
     # ============================================================
     # IMPORTS
